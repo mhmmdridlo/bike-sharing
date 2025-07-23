@@ -21,8 +21,11 @@ day.csv  : bike sharing counts aggregated on daily basis (records 731 days)
 1. Pengguna casual dan registered memiliki proporsi 81.2% untuk pengguna Registered dan 18.8% untuk pengguna Casual yang di mana ini dapat diartikan bahwa secara garis besar lebih banyak penyewa sepeda yang terdaftar secara keseluruhan.
 2. Pengguna yang menyewa sepeda lebih sering menyewa di sore hari antara pukul 16:00 - 19:00 dan puncak tertingginya di pukul 17:00. Sedangkan untuk jam pengguna paling sedikit/terendah menyewa sepeda pada pagi hari di pukul 4:00.
 3. Pada tahun 2011, bulan Januari sampai Maret merupakan bulan dengan performa penyewaan terendah dan penyewaan tertinggi pada bulan Juni. Sedangkan pada tahun 2012, masih sama dengan tahun sebelumnya, performa penyewaan terendah terjadi pada bulan Januari sampai Maret dan penyewaan tertinggi pada bulan September.
-4. 
+4. Musim gugur atau Fall Season merupakan musim di mana pengguna paling tinggi menyewa sepeda. Sedangkan untuk musim dengan penyewaan sepeda paling rendah yaitu pada musim semi atau Spring Season.
+5. Faktor cuaca cerah atau clear menghasilkan jumlah penyewa sepeda tertinggi diantara empat musim lainnya pada periode tahun 2011-2012. Sedangkan untuk faktor cuaca hujan deras atau heavy rain menghasilkan jumlah penyewa sepeda terendah.
 
+📌 Detail proses analisis data terdokumentasi dalam notebook python berikut
+[notebook.ipynb](https://github.com/mhmmdridlo/bike-sharing/blob/30262b52fa5cbdf0a45ca0d56526da7f30d26f24/notebook.ipynb)
 
 ## 📊 Dashboard Streamlit
 
