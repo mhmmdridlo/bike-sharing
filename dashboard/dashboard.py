@@ -5,6 +5,13 @@ import seaborn as sns
 import streamlit as st
 sns.set(style='whitegrid')
 
+st.set_page_config(
+    page_title="Bike Sharing Analysis",
+    page_icon="🚲",
+    layout="centered",
+    initial_sidebar_state="auto"
+)
+
 # load data
 day_df = pd.read_csv('dashboard/day_clean.csv')
 hour_df = pd.read_csv('dashboard/hour_clean.csv')
