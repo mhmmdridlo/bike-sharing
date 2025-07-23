@@ -34,7 +34,9 @@ day.csv  : bike sharing counts aggregated on daily basis (records 731 days)
   🖼️ Tampilan Dashboard
 
 ### Streamlit Cloud
-Dashboard pada proyek ini sudah di deploy ke dalam Streamlit Cloud, untuk melihat dashboard secara langsung bisa melalui link berikut ini 🔗 https://bike-sharing-mhmmdridloo.streamlit.app/
+Dashboard pada proyek ini sudah di deploy ke dalam Streamlit Cloud, untuk melihat dashboard secara langsung bisa melalui link berikut ini 
+
+🔗 https://bike-sharing-mhmmdridloo.streamlit.app/
 
 ### Streamlit Local
 Setup environment terlebih dahulu dengan perintah seperti di bawah, environment ini menggunakan Anaconda
