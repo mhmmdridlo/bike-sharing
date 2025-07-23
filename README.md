@@ -6,11 +6,13 @@
 Dashboard pada proyek ini sudah di deploy ke dalam Streamlit Cloud, untuk melihat dashboard secara langsung bisa melalui link berikut ini 🔗 https://bike-sharing-mhmmdridloo.streamlit.app/
 
 <p align='center'>
-  <img src='/image/dashboard-about.png'/>
+  <img src='/images/dashboard-about.png'/>
+  🖼️ Tampilan Dashboard Bagian About
 
 <p align='center'>
   <img src='/images/dashboard-visualization.png'/>
-.
+  🖼️ Tampilan Dashboard Bagian About
+
 
 ### Streamlit Local
 Setup environment terlebih dahulu dengan perintah seperti di bawah, environment ini menggunakan Anaconda
